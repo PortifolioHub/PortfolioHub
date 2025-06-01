@@ -1,5 +1,5 @@
 # PortfolioHub
-# PortfolioHub
+
 # 📌 Projeto PortfolioHUB + IA GEMINI
 
 Este repositório reúne todos os arquivos e registros da implantação do projeto **PortfolioHUB**, desenvolvido no Bootcamp I – UniCEUB 2025, utilizando as ferramentas **Google Workspace**, **GitHub**, **Google Gemini** e boas práticas de versionamento e segurança digital.
